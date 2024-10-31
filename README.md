@@ -1,5 +1,5 @@
 # Lab-1
-Киберспортсмены
+Киберспортсмены  
 esport_player(s1, 'Niko', 'FaZe Clan', 27).  
 esport_player(s2, 'S1mple', 'Natus Vincere', 26).  
 esport_player(s3, 'ZywOo', 'Team Vitality', 23).  
@@ -17,7 +17,7 @@ esport_player(s14, 'apEX', 'Team Vitality', 30).
 esport_player(s15, 'NBK-', 'OG', 27).  
 esport_player(s16, 'ALEX', 'Team Vitality', 25).  
 
-Навыки
+Навыки  
 skill(s1, aim).  
 skill(s1, strategy).  
 skill(s2, aim).  
@@ -51,7 +51,7 @@ skill(s15, strategy).
 skill(s16, support).  
 skill(s16, teamwork).  
 
-Турниры
+Турниры  
 tournament(t1, 'IEM Katowice 2020').  
 tournament(t2, 'ESL One Cologne 2021').  
 tournament(t3, 'BLAST Premier 2021').  
@@ -61,7 +61,7 @@ tournament(t6, 'ESL Pro League Season 10').
 tournament(t7, 'IEM Global Challenge 2020').  
 tournament(t8, 'BLAST Premier Spring 2021').  
 
-Участие в турнирах
+Участие в турнирах  
 participation(s1, t1).  
 participation(s2, t1).  
 participation(s3, t2).  
@@ -79,7 +79,7 @@ participation(s14, t7).
 participation(s15, t8).  
 participation(s16, t5).  
 
-Победы
+Победы  
 win(s1, t1).  
 win(s2, t1).  
 win(s3, t2).  
